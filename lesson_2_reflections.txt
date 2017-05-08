@@ -25,5 +25,5 @@ A6.Automatic merges helps to combine large unambiguous changes but inturn may
 not alert about similar changes whereas as manual merging requires to resolve
 all changes
 
-Q1:How do the diagrams help you visualize the branch structure?
-A1:They help us determine which commits or changes are present/absent in a branch.
+Q7:How do the diagrams help you visualize the branch structure?
+A7:They help us determine which commits or changes are present/absent in a branch.
