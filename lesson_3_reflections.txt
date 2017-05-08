@@ -11,6 +11,10 @@ a copy repo to add experimental changes, enhancements or feature
 implementations.
 
 Q4.What is the benefit of having a copy of the last known state of the remote stored locally?
-A4.
+A4.It allows for comparison of changes between the local branch and the remote
+branch
 
-
+Q5. How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+A5. Without git and github we would need to send files with changes to people
+with whom we are collaborating, compare the changes to the files manually. It
+would be harder to keep everyone in sync.
